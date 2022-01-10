@@ -4,9 +4,10 @@
   
 </div>
 
+</br>
 
 #### JIYEON BAE
-- I currently study `computer vision`⋅`DL`.
+- I currently study `Computer Vision`⋅`DL`.
 - I'm interested in **The production of Space** and **Site-specific issue**.
 
 </br>
