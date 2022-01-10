@@ -7,7 +7,7 @@
 
 #### JIYEON BAE
 - I currently study `Computer Vision`⋅`DL`.
-- I'm interested in **The production of Space** and **Site-specific issue**.
+- I'm interested in *The production of Space* and *Site-specific Issue*.
 
 </br>
 
