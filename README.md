@@ -6,7 +6,7 @@
 
 
 #### JIYEON BAE
-- I currently study `Computer Vision`⋅`DL`.
+- I currently study `Autonomous Self-Driving`⋅`DL`.
 - I'm interested in *The production of Space* and *Site-specific Issue*.
 
 </br>
