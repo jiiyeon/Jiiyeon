@@ -6,7 +6,7 @@
 
 
 #### JIYEON BAE
-- I currently study `Autonomous Self-Driving`⋅`DL`.
+- I work on researching `Automated Driving Systems`.
 - I'm interested in *The production of Space* and *Site-specific Issue*.
 
 </br>
